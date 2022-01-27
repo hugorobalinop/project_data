@@ -1,0 +1,645 @@
+categoria,consultas,dia
+Horario de clases,6,2021-11-01
+Horario de clases,0,2021-11-02
+Horario de clases,1,2021-11-03
+Horario de clases,4,2021-11-04
+Horario de clases,9,2021-11-05
+Horario de clases,10,2021-11-06
+Horario de clases,6,2021-11-07
+Horario de clases,5,2021-11-08
+Horario de clases,9,2021-11-09
+Horario de clases,5,2021-11-10
+Horario de clases,2,2021-11-11
+Horario de clases,10,2021-11-12
+Horario de clases,8,2021-11-13
+Horario de clases,10,2021-11-14
+Horario de clases,8,2021-11-15
+Horario de clases,3,2021-11-16
+Horario de clases,8,2021-11-17
+Horario de clases,0,2021-11-18
+Horario de clases,8,2021-11-19
+Horario de clases,2,2021-11-20
+Horario de clases,5,2021-11-21
+Horario de clases,9,2021-11-22
+Horario de clases,10,2021-11-23
+Horario de clases,4,2021-11-24
+Horario de clases,7,2021-11-25
+Horario de clases,2,2021-11-26
+Horario de clases,6,2021-11-27
+Horario de clases,1,2021-11-28
+Horario de clases,9,2021-11-29
+Horario de clases,10,2021-11-30
+Horario de exámenes,7,2021-11-01
+Horario de exámenes,2,2021-11-02
+Horario de exámenes,8,2021-11-03
+Horario de exámenes,8,2021-11-04
+Horario de exámenes,7,2021-11-05
+Horario de exámenes,2,2021-11-06
+Horario de exámenes,9,2021-11-07
+Horario de exámenes,8,2021-11-08
+Horario de exámenes,1,2021-11-09
+Horario de exámenes,1,2021-11-10
+Horario de exámenes,4,2021-11-11
+Horario de exámenes,3,2021-11-12
+Horario de exámenes,2,2021-11-13
+Horario de exámenes,1,2021-11-14
+Horario de exámenes,10,2021-11-15
+Horario de exámenes,7,2021-11-16
+Horario de exámenes,2,2021-11-17
+Horario de exámenes,7,2021-11-18
+Horario de exámenes,4,2021-11-19
+Horario de exámenes,4,2021-11-20
+Horario de exámenes,1,2021-11-21
+Horario de exámenes,5,2021-11-22
+Horario de exámenes,1,2021-11-23
+Horario de exámenes,5,2021-11-24
+Horario de exámenes,4,2021-11-25
+Horario de exámenes,7,2021-11-26
+Horario de exámenes,0,2021-11-27
+Horario de exámenes,2,2021-11-28
+Horario de exámenes,0,2021-11-29
+Horario de exámenes,1,2021-11-30
+Aulas,0,2021-11-01
+Aulas,6,2021-11-02
+Aulas,7,2021-11-03
+Aulas,4,2021-11-04
+Aulas,3,2021-11-05
+Aulas,5,2021-11-06
+Aulas,3,2021-11-07
+Aulas,5,2021-11-08
+Aulas,1,2021-11-09
+Aulas,4,2021-11-10
+Aulas,7,2021-11-11
+Aulas,10,2021-11-12
+Aulas,0,2021-11-13
+Aulas,2,2021-11-14
+Aulas,5,2021-11-15
+Aulas,2,2021-11-16
+Aulas,8,2021-11-17
+Aulas,4,2021-11-18
+Aulas,2,2021-11-19
+Aulas,0,2021-11-20
+Aulas,10,2021-11-21
+Aulas,1,2021-11-22
+Aulas,6,2021-11-23
+Aulas,5,2021-11-24
+Aulas,0,2021-11-25
+Aulas,1,2021-11-26
+Aulas,4,2021-11-27
+Aulas,5,2021-11-28
+Aulas,6,2021-11-29
+Aulas,7,2021-11-30
+Profesores,3,2021-11-01
+Profesores,2,2021-11-02
+Profesores,0,2021-11-03
+Profesores,4,2021-11-04
+Profesores,3,2021-11-05
+Profesores,6,2021-11-06
+Profesores,9,2021-11-07
+Profesores,6,2021-11-08
+Profesores,4,2021-11-09
+Profesores,3,2021-11-10
+Profesores,0,2021-11-11
+Profesores,0,2021-11-12
+Profesores,3,2021-11-13
+Profesores,4,2021-11-14
+Profesores,4,2021-11-15
+Profesores,9,2021-11-16
+Profesores,8,2021-11-17
+Profesores,1,2021-11-18
+Profesores,10,2021-11-19
+Profesores,2,2021-11-20
+Profesores,10,2021-11-21
+Profesores,5,2021-11-22
+Profesores,5,2021-11-23
+Profesores,1,2021-11-24
+Profesores,10,2021-11-25
+Profesores,2,2021-11-26
+Profesores,4,2021-11-27
+Profesores,8,2021-11-28
+Profesores,0,2021-11-29
+Profesores,3,2021-11-30
+Asignaturas,1,2021-11-01
+Asignaturas,7,2021-11-02
+Asignaturas,10,2021-11-03
+Asignaturas,7,2021-11-04
+Asignaturas,4,2021-11-05
+Asignaturas,0,2021-11-06
+Asignaturas,4,2021-11-07
+Asignaturas,0,2021-11-08
+Asignaturas,0,2021-11-09
+Asignaturas,9,2021-11-10
+Asignaturas,1,2021-11-11
+Asignaturas,3,2021-11-12
+Asignaturas,5,2021-11-13
+Asignaturas,7,2021-11-14
+Asignaturas,2,2021-11-15
+Asignaturas,0,2021-11-16
+Asignaturas,7,2021-11-17
+Asignaturas,3,2021-11-18
+Asignaturas,4,2021-11-19
+Asignaturas,8,2021-11-20
+Asignaturas,2,2021-11-21
+Asignaturas,7,2021-11-22
+Asignaturas,7,2021-11-23
+Asignaturas,0,2021-11-24
+Asignaturas,9,2021-11-25
+Asignaturas,2,2021-11-26
+Asignaturas,10,2021-11-27
+Asignaturas,2,2021-11-28
+Asignaturas,10,2021-11-29
+Asignaturas,5,2021-11-30
+Calificaciones,5,2021-11-01
+Calificaciones,1,2021-11-02
+Calificaciones,1,2021-11-03
+Calificaciones,5,2021-11-04
+Calificaciones,5,2021-11-05
+Calificaciones,8,2021-11-06
+Calificaciones,9,2021-11-07
+Calificaciones,0,2021-11-08
+Calificaciones,1,2021-11-09
+Calificaciones,3,2021-11-10
+Calificaciones,3,2021-11-11
+Calificaciones,5,2021-11-12
+Calificaciones,2,2021-11-13
+Calificaciones,0,2021-11-14
+Calificaciones,8,2021-11-15
+Calificaciones,0,2021-11-16
+Calificaciones,5,2021-11-17
+Calificaciones,4,2021-11-18
+Calificaciones,9,2021-11-19
+Calificaciones,7,2021-11-20
+Calificaciones,8,2021-11-21
+Calificaciones,4,2021-11-22
+Calificaciones,2,2021-11-23
+Calificaciones,9,2021-11-24
+Calificaciones,10,2021-11-25
+Calificaciones,8,2021-11-26
+Calificaciones,2,2021-11-27
+Calificaciones,1,2021-11-28
+Calificaciones,1,2021-11-29
+Calificaciones,5,2021-11-30
+Información,4,2021-11-01
+Información,5,2021-11-02
+Información,3,2021-11-03
+Información,2,2021-11-04
+Información,5,2021-11-05
+Información,3,2021-11-06
+Información,0,2021-11-07
+Información,4,2021-11-08
+Información,9,2021-11-09
+Información,2,2021-11-10
+Información,8,2021-11-11
+Información,2,2021-11-12
+Información,0,2021-11-13
+Información,9,2021-11-14
+Información,10,2021-11-15
+Información,1,2021-11-16
+Información,3,2021-11-17
+Información,0,2021-11-18
+Información,6,2021-11-19
+Información,10,2021-11-20
+Información,9,2021-11-21
+Información,9,2021-11-22
+Información,5,2021-11-23
+Información,6,2021-11-24
+Información,9,2021-11-25
+Información,7,2021-11-26
+Información,7,2021-11-27
+Información,0,2021-11-28
+Información,3,2021-11-29
+Información,9,2021-11-30
+Horario de clases,15,2021-12-01
+Horario de clases,1,2021-12-02
+Horario de clases,10,2021-12-03
+Horario de clases,3,2021-12-04
+Horario de clases,10,2021-12-05
+Horario de clases,2,2021-12-06
+Horario de clases,11,2021-12-07
+Horario de clases,1,2021-12-08
+Horario de clases,12,2021-12-09
+Horario de clases,1,2021-12-10
+Horario de clases,2,2021-12-11
+Horario de clases,7,2021-12-12
+Horario de clases,2,2021-12-13
+Horario de clases,3,2021-12-14
+Horario de clases,13,2021-12-15
+Horario de clases,3,2021-12-16
+Horario de clases,8,2021-12-17
+Horario de clases,5,2021-12-18
+Horario de clases,14,2021-12-19
+Horario de clases,11,2021-12-20
+Horario de clases,5,2021-12-21
+Horario de clases,6,2021-12-22
+Horario de clases,15,2021-12-23
+Horario de clases,5,2021-12-24
+Horario de clases,7,2021-12-25
+Horario de clases,6,2021-12-26
+Horario de clases,10,2021-12-27
+Horario de clases,4,2021-12-28
+Horario de clases,12,2021-12-29
+Horario de clases,3,2021-12-30
+Horario de clases,13,2021-12-31
+Horario de exámenes,10,2021-12-01
+Horario de exámenes,8,2021-12-02
+Horario de exámenes,10,2021-12-03
+Horario de exámenes,2,2021-12-04
+Horario de exámenes,5,2021-12-05
+Horario de exámenes,1,2021-12-06
+Horario de exámenes,11,2021-12-07
+Horario de exámenes,12,2021-12-08
+Horario de exámenes,12,2021-12-09
+Horario de exámenes,15,2021-12-10
+Horario de exámenes,0,2021-12-11
+Horario de exámenes,3,2021-12-12
+Horario de exámenes,2,2021-12-13
+Horario de exámenes,10,2021-12-14
+Horario de exámenes,3,2021-12-15
+Horario de exámenes,2,2021-12-16
+Horario de exámenes,14,2021-12-17
+Horario de exámenes,10,2021-12-18
+Horario de exámenes,5,2021-12-19
+Horario de exámenes,0,2021-12-20
+Horario de exámenes,11,2021-12-21
+Horario de exámenes,7,2021-12-22
+Horario de exámenes,15,2021-12-23
+Horario de exámenes,15,2021-12-24
+Horario de exámenes,14,2021-12-25
+Horario de exámenes,13,2021-12-26
+Horario de exámenes,11,2021-12-27
+Horario de exámenes,15,2021-12-28
+Horario de exámenes,14,2021-12-29
+Horario de exámenes,0,2021-12-30
+Horario de exámenes,3,2021-12-31
+Aulas,12,2021-12-01
+Aulas,9,2021-12-02
+Aulas,11,2021-12-03
+Aulas,6,2021-12-04
+Aulas,2,2021-12-05
+Aulas,3,2021-12-06
+Aulas,11,2021-12-07
+Aulas,2,2021-12-08
+Aulas,2,2021-12-09
+Aulas,6,2021-12-10
+Aulas,1,2021-12-11
+Aulas,15,2021-12-12
+Aulas,0,2021-12-13
+Aulas,11,2021-12-14
+Aulas,1,2021-12-15
+Aulas,7,2021-12-16
+Aulas,13,2021-12-17
+Aulas,9,2021-12-18
+Aulas,0,2021-12-19
+Aulas,6,2021-12-20
+Aulas,12,2021-12-21
+Aulas,12,2021-12-22
+Aulas,4,2021-12-23
+Aulas,13,2021-12-24
+Aulas,14,2021-12-25
+Aulas,12,2021-12-26
+Aulas,4,2021-12-27
+Aulas,7,2021-12-28
+Aulas,15,2021-12-29
+Aulas,0,2021-12-30
+Aulas,15,2021-12-31
+Profesores,0,2021-12-01
+Profesores,0,2021-12-02
+Profesores,12,2021-12-03
+Profesores,14,2021-12-04
+Profesores,7,2021-12-05
+Profesores,14,2021-12-06
+Profesores,13,2021-12-07
+Profesores,3,2021-12-08
+Profesores,8,2021-12-09
+Profesores,3,2021-12-10
+Profesores,14,2021-12-11
+Profesores,3,2021-12-12
+Profesores,5,2021-12-13
+Profesores,2,2021-12-14
+Profesores,12,2021-12-15
+Profesores,9,2021-12-16
+Profesores,15,2021-12-17
+Profesores,10,2021-12-18
+Profesores,12,2021-12-19
+Profesores,13,2021-12-20
+Profesores,9,2021-12-21
+Profesores,9,2021-12-22
+Profesores,11,2021-12-23
+Profesores,14,2021-12-24
+Profesores,14,2021-12-25
+Profesores,11,2021-12-26
+Profesores,6,2021-12-27
+Profesores,2,2021-12-28
+Profesores,15,2021-12-29
+Profesores,12,2021-12-30
+Profesores,0,2021-12-31
+Asignaturas,9,2021-12-01
+Asignaturas,9,2021-12-02
+Asignaturas,6,2021-12-03
+Asignaturas,11,2021-12-04
+Asignaturas,4,2021-12-05
+Asignaturas,6,2021-12-06
+Asignaturas,14,2021-12-07
+Asignaturas,6,2021-12-08
+Asignaturas,15,2021-12-09
+Asignaturas,5,2021-12-10
+Asignaturas,8,2021-12-11
+Asignaturas,10,2021-12-12
+Asignaturas,14,2021-12-13
+Asignaturas,8,2021-12-14
+Asignaturas,1,2021-12-15
+Asignaturas,14,2021-12-16
+Asignaturas,9,2021-12-17
+Asignaturas,0,2021-12-18
+Asignaturas,11,2021-12-19
+Asignaturas,15,2021-12-20
+Asignaturas,3,2021-12-21
+Asignaturas,2,2021-12-22
+Asignaturas,5,2021-12-23
+Asignaturas,5,2021-12-24
+Asignaturas,2,2021-12-25
+Asignaturas,11,2021-12-26
+Asignaturas,15,2021-12-27
+Asignaturas,14,2021-12-28
+Asignaturas,0,2021-12-29
+Asignaturas,2,2021-12-30
+Asignaturas,11,2021-12-31
+Calificaciones,9,2021-12-01
+Calificaciones,3,2021-12-02
+Calificaciones,13,2021-12-03
+Calificaciones,5,2021-12-04
+Calificaciones,15,2021-12-05
+Calificaciones,8,2021-12-06
+Calificaciones,8,2021-12-07
+Calificaciones,14,2021-12-08
+Calificaciones,14,2021-12-09
+Calificaciones,10,2021-12-10
+Calificaciones,8,2021-12-11
+Calificaciones,7,2021-12-12
+Calificaciones,9,2021-12-13
+Calificaciones,1,2021-12-14
+Calificaciones,13,2021-12-15
+Calificaciones,9,2021-12-16
+Calificaciones,2,2021-12-17
+Calificaciones,5,2021-12-18
+Calificaciones,9,2021-12-19
+Calificaciones,8,2021-12-20
+Calificaciones,1,2021-12-21
+Calificaciones,6,2021-12-22
+Calificaciones,15,2021-12-23
+Calificaciones,11,2021-12-24
+Calificaciones,15,2021-12-25
+Calificaciones,11,2021-12-26
+Calificaciones,1,2021-12-27
+Calificaciones,2,2021-12-28
+Calificaciones,15,2021-12-29
+Calificaciones,15,2021-12-30
+Calificaciones,9,2021-12-31
+Información,10,2021-12-01
+Información,5,2021-12-02
+Información,11,2021-12-03
+Información,0,2021-12-04
+Información,8,2021-12-05
+Información,10,2021-12-06
+Información,6,2021-12-07
+Información,0,2021-12-08
+Información,11,2021-12-09
+Información,8,2021-12-10
+Información,11,2021-12-11
+Información,5,2021-12-12
+Información,13,2021-12-13
+Información,8,2021-12-14
+Información,3,2021-12-15
+Información,4,2021-12-16
+Información,1,2021-12-17
+Información,13,2021-12-18
+Información,3,2021-12-19
+Información,10,2021-12-20
+Información,9,2021-12-21
+Información,12,2021-12-22
+Información,11,2021-12-23
+Información,12,2021-12-24
+Información,8,2021-12-25
+Información,15,2021-12-26
+Información,12,2021-12-27
+Información,13,2021-12-28
+Información,4,2021-12-29
+Información,2,2021-12-30
+Información,4,2021-12-31
+Horario de clases,16,2022-01-01
+Horario de clases,2,2022-01-02
+Horario de clases,5,2022-01-03
+Horario de clases,4,2022-01-04
+Horario de clases,9,2022-01-05
+Horario de clases,20,2022-01-06
+Horario de clases,14,2022-01-07
+Horario de clases,18,2022-01-08
+Horario de clases,6,2022-01-09
+Horario de clases,20,2022-01-10
+Horario de clases,11,2022-01-11
+Horario de clases,16,2022-01-12
+Horario de clases,6,2022-01-13
+Horario de clases,9,2022-01-14
+Horario de clases,19,2022-01-15
+Horario de clases,18,2022-01-16
+Horario de clases,13,2022-01-17
+Horario de clases,4,2022-01-18
+Horario de clases,15,2022-01-19
+Horario de clases,18,2022-01-20
+Horario de clases,5,2022-01-21
+Horario de clases,15,2022-01-22
+Horario de clases,17,2022-01-23
+Horario de clases,13,2022-01-24
+Horario de clases,17,2022-01-25
+Horario de clases,12,2022-01-26
+Horario de clases,12,2022-01-27
+Horario de clases,10,2022-01-28
+Horario de clases,3,2022-01-29
+Horario de clases,9,2022-01-30
+Horario de clases,5,2022-01-31
+Horario de exámenes,1,2022-01-01
+Horario de exámenes,20,2022-01-02
+Horario de exámenes,19,2022-01-03
+Horario de exámenes,0,2022-01-04
+Horario de exámenes,6,2022-01-05
+Horario de exámenes,10,2022-01-06
+Horario de exámenes,18,2022-01-07
+Horario de exámenes,6,2022-01-08
+Horario de exámenes,19,2022-01-09
+Horario de exámenes,14,2022-01-10
+Horario de exámenes,18,2022-01-11
+Horario de exámenes,17,2022-01-12
+Horario de exámenes,13,2022-01-13
+Horario de exámenes,3,2022-01-14
+Horario de exámenes,15,2022-01-15
+Horario de exámenes,11,2022-01-16
+Horario de exámenes,13,2022-01-17
+Horario de exámenes,2,2022-01-18
+Horario de exámenes,17,2022-01-19
+Horario de exámenes,14,2022-01-20
+Horario de exámenes,13,2022-01-21
+Horario de exámenes,2,2022-01-22
+Horario de exámenes,9,2022-01-23
+Horario de exámenes,16,2022-01-24
+Horario de exámenes,7,2022-01-25
+Horario de exámenes,15,2022-01-26
+Horario de exámenes,17,2022-01-27
+Horario de exámenes,13,2022-01-28
+Horario de exámenes,5,2022-01-29
+Horario de exámenes,3,2022-01-30
+Horario de exámenes,9,2022-01-31
+Aulas,15,2022-01-01
+Aulas,19,2022-01-02
+Aulas,2,2022-01-03
+Aulas,17,2022-01-04
+Aulas,7,2022-01-05
+Aulas,17,2022-01-06
+Aulas,12,2022-01-07
+Aulas,15,2022-01-08
+Aulas,15,2022-01-09
+Aulas,16,2022-01-10
+Aulas,6,2022-01-11
+Aulas,1,2022-01-12
+Aulas,17,2022-01-13
+Aulas,20,2022-01-14
+Aulas,0,2022-01-15
+Aulas,19,2022-01-16
+Aulas,17,2022-01-17
+Aulas,4,2022-01-18
+Aulas,9,2022-01-19
+Aulas,16,2022-01-20
+Aulas,9,2022-01-21
+Aulas,14,2022-01-22
+Aulas,3,2022-01-23
+Aulas,7,2022-01-24
+Aulas,11,2022-01-25
+Aulas,13,2022-01-26
+Aulas,13,2022-01-27
+Aulas,14,2022-01-28
+Aulas,4,2022-01-29
+Aulas,18,2022-01-30
+Aulas,5,2022-01-31
+Profesores,7,2022-01-01
+Profesores,1,2022-01-02
+Profesores,20,2022-01-03
+Profesores,3,2022-01-04
+Profesores,3,2022-01-05
+Profesores,17,2022-01-06
+Profesores,19,2022-01-07
+Profesores,11,2022-01-08
+Profesores,4,2022-01-09
+Profesores,2,2022-01-10
+Profesores,0,2022-01-11
+Profesores,5,2022-01-12
+Profesores,5,2022-01-13
+Profesores,9,2022-01-14
+Profesores,13,2022-01-15
+Profesores,9,2022-01-16
+Profesores,3,2022-01-17
+Profesores,1,2022-01-18
+Profesores,2,2022-01-19
+Profesores,14,2022-01-20
+Profesores,3,2022-01-21
+Profesores,17,2022-01-22
+Profesores,6,2022-01-23
+Profesores,16,2022-01-24
+Profesores,7,2022-01-25
+Profesores,6,2022-01-26
+Profesores,19,2022-01-27
+Profesores,11,2022-01-28
+Profesores,20,2022-01-29
+Profesores,5,2022-01-30
+Profesores,9,2022-01-31
+Asignaturas,0,2022-01-01
+Asignaturas,17,2022-01-02
+Asignaturas,8,2022-01-03
+Asignaturas,18,2022-01-04
+Asignaturas,8,2022-01-05
+Asignaturas,20,2022-01-06
+Asignaturas,15,2022-01-07
+Asignaturas,19,2022-01-08
+Asignaturas,15,2022-01-09
+Asignaturas,16,2022-01-10
+Asignaturas,12,2022-01-11
+Asignaturas,2,2022-01-12
+Asignaturas,10,2022-01-13
+Asignaturas,11,2022-01-14
+Asignaturas,7,2022-01-15
+Asignaturas,10,2022-01-16
+Asignaturas,8,2022-01-17
+Asignaturas,7,2022-01-18
+Asignaturas,0,2022-01-19
+Asignaturas,10,2022-01-20
+Asignaturas,7,2022-01-21
+Asignaturas,20,2022-01-22
+Asignaturas,13,2022-01-23
+Asignaturas,8,2022-01-24
+Asignaturas,16,2022-01-25
+Asignaturas,10,2022-01-26
+Asignaturas,9,2022-01-27
+Asignaturas,8,2022-01-28
+Asignaturas,19,2022-01-29
+Asignaturas,0,2022-01-30
+Asignaturas,9,2022-01-31
+Calificaciones,19,2022-01-01
+Calificaciones,19,2022-01-02
+Calificaciones,13,2022-01-03
+Calificaciones,3,2022-01-04
+Calificaciones,9,2022-01-05
+Calificaciones,9,2022-01-06
+Calificaciones,2,2022-01-07
+Calificaciones,5,2022-01-08
+Calificaciones,17,2022-01-09
+Calificaciones,10,2022-01-10
+Calificaciones,10,2022-01-11
+Calificaciones,14,2022-01-12
+Calificaciones,9,2022-01-13
+Calificaciones,13,2022-01-14
+Calificaciones,13,2022-01-15
+Calificaciones,15,2022-01-16
+Calificaciones,10,2022-01-17
+Calificaciones,7,2022-01-18
+Calificaciones,3,2022-01-19
+Calificaciones,11,2022-01-20
+Calificaciones,13,2022-01-21
+Calificaciones,4,2022-01-22
+Calificaciones,19,2022-01-23
+Calificaciones,18,2022-01-24
+Calificaciones,3,2022-01-25
+Calificaciones,0,2022-01-26
+Calificaciones,10,2022-01-27
+Calificaciones,2,2022-01-28
+Calificaciones,0,2022-01-29
+Calificaciones,0,2022-01-30
+Calificaciones,4,2022-01-31
+Información,7,2022-01-01
+Información,17,2022-01-02
+Información,9,2022-01-03
+Información,14,2022-01-04
+Información,3,2022-01-05
+Información,10,2022-01-06
+Información,8,2022-01-07
+Información,10,2022-01-08
+Información,18,2022-01-09
+Información,14,2022-01-10
+Información,6,2022-01-11
+Información,20,2022-01-12
+Información,17,2022-01-13
+Información,12,2022-01-14
+Información,3,2022-01-15
+Información,9,2022-01-16
+Información,12,2022-01-17
+Información,1,2022-01-18
+Información,0,2022-01-19
+Información,0,2022-01-20
+Información,9,2022-01-21
+Información,11,2022-01-22
+Información,9,2022-01-23
+Información,20,2022-01-24
+Información,5,2022-01-25
+Información,7,2022-01-26
+Información,15,2022-01-27
+Información,20,2022-01-28
+Información,16,2022-01-29
+Información,9,2022-01-30
+Información,20,2022-01-31
