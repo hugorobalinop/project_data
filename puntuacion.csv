@@ -1,6 +1,6 @@
-puntuacion,valor
-5 estrellas,342
-4 estrellas,128
-3 estrellas,55
-2 estrellas,8
-1 estrella,3
+puntuacion,Horario de clases,Horario de exámenes,Aulas,Profesores,Asignaturas,Calificaciones,Información
+5 estrellas,256,193,190,152,168,137,192
+4 estrellas,31,19,3,12,5,7,2
+3 estrellas,6,3,1,0,0,2,5
+2 estrellas,1,0,0,2,3,1,0
+1 estrella,0,0,0,1,0,0,1
